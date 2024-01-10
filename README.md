@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahESL
 - 👀 I’m interested in improving artificial intelligence via learning from multiple data modalities and their associations.
-- 🌱 I’m currently learning self-supervised contrastive learning.
+- 🌱 I’m currently learning probabilstic machine learning for multi-modal generative models, e.g., diffusion.
 - 💞️ I’m looking to collaborate on developing machine learning models as well as web applications for supporing vision-language tasks, e.g., visual question answering.
 - 📫 Reach me at: sedigheh.elsmi@{hpi.de, gmail.com}
 
